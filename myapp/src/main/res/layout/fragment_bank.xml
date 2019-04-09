@@ -29,6 +29,9 @@
                 android:id="@+id/textView5"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:background="@drawable/grey_border"
+
+
                 android:text="TextView" />
         </TableRow>
 
@@ -48,6 +51,8 @@
                 android:id="@+id/textView23"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:background="@drawable/grey_border"
+
                 android:text="TextView" />
         </TableRow>
 
@@ -67,6 +72,8 @@
                 android:id="@+id/textView3"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:background="@drawable/grey_border"
+
                 android:text="TextView" />
         </TableRow>
 

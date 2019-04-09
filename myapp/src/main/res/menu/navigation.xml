@@ -3,10 +3,10 @@
 
     <item
         android:id="@+id/cust_details"
-        android:title="@string/customer_details" />
+        android:title="@string/generate_receipt" />
 
     <item
         android:id="@+id/collection"
-        android:title="@string/collection" />
+        android:title="@string/order_or_sales_history" />
 
 </menu>

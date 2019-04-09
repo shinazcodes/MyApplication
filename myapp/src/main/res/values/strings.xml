@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name" translatable="false">My Application</string>
-    <string name="customer_details" translatable="false">customer details</string>
+    <string name="generate_receipt" translatable="false">generate receipt</string>
     <string name="cust_id" translatable="false">customer id</string>
     <string name="cust_name" translatable="false">customer name</string>
     <string name="cust_address" translatable="false">customer address</string>
@@ -8,7 +8,7 @@
     <string name="cust_balance" translatable="false">customer balance</string>
     <string name="cust_gstn" translatable="false">customer gstn</string>
 
-    <string name="collection" translatable="false">collection</string>
+    <string name="order_or_sales_history" translatable="false">order/sales history</string>
     <string-array name="select_customer">
         <item>one</item>
         <item>two</item>
