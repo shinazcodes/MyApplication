@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name" translatable="false">My Application</string>
+    <string name="customer_details" translatable="false">customer details</string>
+    <string name="cust_id" translatable="false">customer id</string>
+    <string name="cust_name" translatable="false">customer name</string>
+    <string name="cust_address" translatable="false">customer address</string>
+    <string name="cust_mob" translatable="false">customer mobile number</string>
+    <string name="cust_balance" translatable="false">customer balance</string>
+    <string name="cust_gstn" translatable="false">customer gstn</string>
+
+    <string name="collection" translatable="false">collection</string>
+    <string-array name="select_customer">
+        <item>one</item>
+        <item>two</item>
+        <item>three</item>
+        <item>four</item>
+        <item>five</item>
+    </string-array>
+    <string name="title_activity_search_results" translatable="false">search_results</string>
+    <string name="title_home" translatable="false">Home</string>
+    <string name="title_dashboard" translatable="false">Dashboard</string>
+    <string name="title_notifications" translatable="false">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
